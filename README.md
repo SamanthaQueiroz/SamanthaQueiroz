@@ -15,8 +15,8 @@
   </div>
   <br/>
   <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamanthaQueiroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaQueiroz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api?username=SamanthaQueiroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaQueiroz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br/>
 <h3> :earth_americas: Social Network: </h3/> <br/>
