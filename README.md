@@ -15,8 +15,10 @@
   </div>
   <br/>
   <div align="center">
+  <a href="https://github.com/SamanthaQueiroz?tab=repositories">
   <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api?username=SamanthaQueiroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaQueiroz&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 <br/>
 <h3> :earth_americas: Social Network: </h3/> <br/>
